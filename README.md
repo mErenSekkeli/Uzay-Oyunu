@@ -1,5 +1,6 @@
 NOTLAR:
 -Oyunun Açık Kaynak Kodlarına Erişmek İçin 'Swing Uzay Oyunu' Adlı Klasörü İnceleyebilirsiniz. Aynı Zamanda 'dist' Klasöründe .jar Dosyasını Görüntüleyebilirsiniz.
+
 -Oyunu .exe türünde Çalıştırmak İçin 'Uzay Oyunu EXE' Klasörünün Tamamını İndirerek 'uzayoyunu.exe' Dosyasına Girerek Oyunu Oynayabilirsiniz.
 
 Gelişim Süreçleri:
