@@ -6,6 +6,7 @@ NOTLAR:
 
 Gelişim Süreçleri:
 
+
 Uzay Oyunu V0.01(BETA)
 
 Yenilikler:
@@ -15,6 +16,7 @@ Yenilikler:
 -Oyun Bittiginde Yeni Bir Oyuna Gecebilme
 
 -Oyun Bittiginde Oyun Icerisindeki Bazi Istatistikler Gosterilmesi
+
 
 
 Uzay Oyunu V0.02(BETA)
