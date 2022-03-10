@@ -45,10 +45,15 @@ Yenilikler:
 
 
 Uzay Oyunu V0.08(BETA)
+
 Yenilikler:
+
 -Oyuna Seviye Sistemi Getirildi. Boylelikle Oyun Icerisinde Daha Fazla Durulabilir
+
 -Her Seviye Atlanildiginda Oyun Daha da Zorlastirilarak Rekabetci Bir Ortam Olusturuldu
+
 -Belirli Seviyelerden Sonra Dusmanin Ates Etme Hizi Ve Top hizi Artirilarak Daha da Rekabetci Hale Getirildi
+
 -Oyun Icerisine Toplam 10 Seviye Eklendi
 
 Duzeltmeler:
