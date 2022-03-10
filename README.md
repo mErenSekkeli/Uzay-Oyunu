@@ -1,4 +1,5 @@
 NOTLAR:
+
 -Oyunun Açık Kaynak Kodlarına Erişmek İçin 'Swing Uzay Oyunu' Adlı Klasörü İnceleyebilirsiniz. Aynı Zamanda 'dist' Klasöründe .jar Dosyasını Görüntüleyebilirsiniz.
 
 -Oyunu .exe türünde Çalıştırmak İçin 'Uzay Oyunu EXE' Klasörünün Tamamını İndirerek 'uzayoyunu.exe' Dosyasına Girerek Oyunu Oynayabilirsiniz.
@@ -6,25 +7,38 @@ NOTLAR:
 Gelişim Süreçleri:
 
 Uzay Oyunu V0.01(BETA)
+
 Yenilikler:
+
 -Dusman Gemiye Vurma Mekanizmasi
+
 -Oyun Bittiginde Yeni Bir Oyuna Gecebilme
+
 -Oyun Bittiginde Oyun Icerisindeki Bazi Istatistikler Gosterilmesi
 
 
 Uzay Oyunu V0.02(BETA)
 Yenilikler:
+
 -Oyuna Zorluk Derecesi Getirildi
+
 -Oyunu Durdurma Ve Tekrar Baslatma Mekanizmasi Geldi (P ile Durdurma, D ile Devam Ettirme)
 
 
 Uzay Oyunu V0.04(BETA)
+
 Yenilikler:
+
 -Oyundaki Gemi Figurleri Degistirildi
+
 -Gemi Sagligi Getirildi
+
 -Dusman Geminin Ates Etme Ozelligi Getirildi
+
 -Yeni Zorluk Derecesi Ozellikleri Getirildi
+
 -Geminin Ates Etme Miktari Zorluk Derecesine Gore Kisitlandi
+
 -Kalan Top Ve Can Miktari Ekrana Yansitildi
 
 
