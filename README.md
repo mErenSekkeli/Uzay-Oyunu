@@ -1,3 +1,8 @@
+NOTLAR:
+
+
+
+
 Uzay Oyunu V0.01(BETA)
 Yenilikler:
 -Dusman Gemiye Vurma Mekanizmasi
